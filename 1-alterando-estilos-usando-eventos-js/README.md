@@ -6,7 +6,7 @@ Criar 2 quadrados na tela usando HTML e CSS. O primeiro quadrado deve ter a cor 
 ## Conteúdos colocados em prática:
 
 - Alteração de estilos de elementos usando JS:
-Pude utilizar métodos de manipulação do DOM através do document com o getElementById, além de realizar consulta com o querySelector, e também realizei a adição de evento de click com o addEventListener e função seguindo a lógica necessária para conclusão do exercício proposto.
+Pude utilizar métodos de manipulação do DOM através do document com o getElementById, além de realizar consulta com o querySelector, e também realizei a adição de evento de click com o addEventListener e função que remove e adiciona classe de um elemento seguindo a lógica necessária para conclusão do exercício proposto.
 
 ## Tecnologias utilizadas
 <div style="display: inline_block"><br>
@@ -28,5 +28,5 @@ Feito isso, basta seguir os passos a seguir:
 
 2️⃣ Ou se o seu editor de código for o VsCode, dentro arquivo HTML basta utilizar o atalho alt + l + o que através da extensão Live Server irá ser executado os códigos e exibido diretamente no console do seu navegador.
 
-## Vizualizção:
+## Vizualização:
 [<img src="./exercicio.gif" alt="gif do exercício">]
