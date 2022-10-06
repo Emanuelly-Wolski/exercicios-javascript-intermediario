@@ -1,0 +1,21 @@
+h1{
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: black;
+}
+
+.azul{
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: blue;
+}
