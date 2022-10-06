@@ -2,6 +2,8 @@
 
 ## Descrição da tarefa:
 Ao clicar no quadrado na tela, deve verificar se ele tem a classe azul.  Se tiver, deve alterar a cor do quadrado para a cor azul e mostrar um alerta com o texto “Esse quadrado TEM a classe azul!”. Se já possuir a cor azul, deve remover a cor azul, deixando a cor original. 
+## Objetivo do exercício:
+Verificar se o elemento possui uma classe, se não tiver deverá ser adicionada. Caso existir, remover essa classe.
 
 ## Conteúdos colocados em prática:
 Realizar verificação para saber se um elemento possui uma determinada classe e alterar sua cor:
