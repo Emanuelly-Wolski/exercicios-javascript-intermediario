@@ -1,0 +1,12 @@
+body{
+    background-color:whitesmoke;
+}
+
+h1{
+    font-size: 26px;
+}
+
+.campo-preenchido{
+    border-color: rgb(128, 202, 128);
+    border-style:double;
+}
