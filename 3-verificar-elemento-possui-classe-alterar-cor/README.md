@@ -1,17 +1,18 @@
 ## Exercício 3 de JavaScript Intermediário ⚔
 
-## Descrição da tarefa:
+## Descrição da tarefa 📝
 Ao clicar no quadrado na tela, deve verificar se ele tem a classe azul.  Se tiver, deve alterar a cor do quadrado para a cor azul e mostrar um alerta com o texto “Esse quadrado TEM a classe azul!”. Se já possuir a cor azul, deve remover a cor azul, deixando a cor original. 
-## Objetivo do exercício:
+
+## Objetivo do exercício ❗
 Verificar se o elemento possui uma classe, se não tiver deverá ser adicionada. Caso existir, remover essa classe.
 
-## Conteúdos colocados em prática:
+## Conteúdos colocados em prática 💻
 Realizar verificação para saber se um elemento possui uma determinada classe e alterar sua cor:
 
 Pude colocar em prática a manipulação do DOM através do document, utilizando o querySelector para realizar uma consulta no elemento 'quadrado', além de adicionar evento de click com o addEventListener, pude criar uma arrow function para no momento do click ocorrer a verificação da existência da classe 'azul' no elemento, também foi criado uma condicional para remover e adicionar a classe desejada dependendo da condição.E por fim, é exibido um alert com uma mensagem dizendo que o elemento tem a classe 'azul'.
 
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas ✔
 <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="center" alt="HTML" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -20,7 +21,7 @@ Pude colocar em prática a manipulação do DOM através do document, utilizando
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
 
-## Como testar os comandos? 
+## Como testar os comandos ❓
 Primeiramente deve-se clonar este repositório no git bash com o comando: git clone url do repositório
 
 Após isso, você terá acesso as pastas com todos os aquivos utilizados para a realização do exercício. Basta abrir a pasta com o VsCode ou seu editor de código específico.
