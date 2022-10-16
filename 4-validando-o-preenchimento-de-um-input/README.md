@@ -8,17 +8,17 @@ Ao preencher alguma informação nos inputs, deve ser verificado se estão vazio
 Caso tiver algum valor, será adicionada a borda verde. Se não tiver, é removida a borda.
 
 ## Conteúdos colocados em prática 💻
-Validar o preenchimento das informações em um input:
+- Validar o preenchimento das informações em um input:
 
-Pude colocar em prática a manipulação do DOM através do document, utilizando o querySelectorAll para pegar os elementos que possuem a mesma classe;
+- Pude colocar em prática a manipulação do DOM através do document, utilizando o querySelectorAll para pegar os elementos que possuem a mesma classe;
 
-Utilizei o laço de repertição forEach para percorrer cada um dos inputs;
+- Utilizei o laço de repertição forEach para percorrer cada um dos inputs;
 
-Disparei um evento 'change' para verificar se o input foi alterado quando o usuário preencheu algo;
+- Disparei um evento 'change' para verificar se o input foi alterado quando o usuário preencheu algo;
 
-Com uma condicional if, dicionei a classe 'campo-preenchido' quando o  usuário adicionou algum texto no input, esta classe altera a cor da borda do input para verde;
+- Com uma condicional if, dicionei a classe 'campo-preenchido' quando o  usuário adicionou algum texto no input, esta classe altera a cor da borda do input para verde;
 
-E por fim, com a condicional else, se o input estiver vazio, será removido a classe 'campo-preenchido';
+- E por fim, com a condicional else, se o input estiver vazio, será removido a classe 'campo-preenchido';
 
 
 
